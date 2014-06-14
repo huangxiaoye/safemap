@@ -1,4 +1,4 @@
 safemap
 =======
 
-One thread safe map implention
+One thread safe map implmention
